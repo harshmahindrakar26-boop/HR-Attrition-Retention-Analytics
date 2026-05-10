@@ -18,4 +18,4 @@ There is a critical attrition spike in October. Furthermore, the North region ho
 
 Data source: collected raw data from Kaggle
 
-Screenshots / Demos- Show what the dashboard look like. Example :
+Screenshots / Demos- Show what the dashboard look like. Example : https://github.com/harshmahindrakar26-boop/HR-Attrition-Retention-Analytics/blob/main/snapshot%20of%20report.png
