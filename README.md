@@ -16,3 +16,6 @@ High-level overview showing a 21% Attrition Rate (11 out of 53 employees).Attrit
 5. Insights & RecommendationsKey Insight:
 There is a critical attrition spike in October. Furthermore, the North region holds the highest employee count but shows varied activity levels in the detailed table.Strategic Action: The organization should conduct exit interviews specifically focused on the October departures to identify seasonal burnout or fiscal year-end pressures.Enhancement: To improve the dashboard, I recommend adding a "Tenure vs. Attrition" visual to see if new hires or veteran employees are leaving, allowing for more precise intervention in the onboarding or long-term engagement processes.
 
+Data source: collected raw data from Kaggle
+
+Screenshots / Demos- Show what the dashboard look like. Example :
